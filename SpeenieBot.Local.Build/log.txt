@@ -1,0 +1,4 @@
+10/19/2020 3:17:35 PM 1244133328 Nope  (speeniebean) Intent: /intent hh
+10/19/2020 3:17:42 PM 1244133328 Nope  (speeniebean) Intent: intent sss
+10/19/2020 3:20:50 PM 1244133328 Nope  (speeniebean) created attractor point: http://wikimapia.org/#lang=en&lat=32.790548&lon=-97.009524&z=19&m=b
+Attractor generated. power: 3.52
