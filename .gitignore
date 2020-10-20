@@ -83,4 +83,5 @@ orleans.codegen.cs
 .vs/Bots/v16/.suo
 /SpeenieBot.Local.Build/System.*
 /SpeenieBot.Local.Build/Microsoft.*
+/ex.cs
 
