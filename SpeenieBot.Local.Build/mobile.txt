@@ -9,7 +9,7 @@ Click the Map. On the 'Location' aka Map page, click the menu, then 'Share my Li
 
 If desired, Enter /setradius to decrease the proximity between your location and the Attractor or Void. You can enter a value between 1000 and 100000. The default is 5000 m.
 
-State your Intent
+State your Intent, if you'd like by entering /intent. All text after /intent will be saved as your Intent.
 
 Enter /getattractor, /getvoid, /getrepeller or /getpair command to find your next Quantum adventure location.
 Enter /getpseudo to find a random location in your radius.
