@@ -82,6 +82,8 @@ orleans.codegen.cs
 /prod-copies/
 #.vs/Bots/v16/.suo
 .vs/
+/packages/
+/SpeenieBot/
 /SpeenieBot.Local.Build/
 /SpeenieBot/Program.cs.bak
 /dev
