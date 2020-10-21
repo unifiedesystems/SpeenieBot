@@ -94,8 +94,13 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="index.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(ProjectDir)Comm\*" "$(TargetDir)"</PostBuildEvent>
+    <PostBuildEvent>copy "$(ProjectDir)Comm\*" "$(TargetDir)"
+copy "$(ProjectDir)_pgs\*" "$(TargetDir)"
+copy "$(ProjectDir)index.html" "$(TargetDir)"</PostBuildEvent>
   </PropertyGroup>
 </Project>
