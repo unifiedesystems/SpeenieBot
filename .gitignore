@@ -78,7 +78,7 @@ orleans.codegen.cs
 [Bb]in/
 [Oo]bj/
 
-#SpeenieBot
+#SpeenieBot Live
 /prod-copies/
 #.vs/Bots/v16/.suo
 .vs/
@@ -87,3 +87,4 @@ orleans.codegen.cs
 /SpeenieBot.Local.Build/
 /SpeenieBot/Program.cs.bak
 /dev
+/SpeenieBot.Local.sln
