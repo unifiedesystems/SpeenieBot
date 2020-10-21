@@ -1603,6 +1603,17 @@ namespace SpeenieBot
             try
             {
 
+                //START testing bot start
+                if (IsProcessOpen("SpeenieBot") == false)
+                {
+                    if (System.IO.File.Exists("SpeenieBot.exe"))
+                    {
+                        System.Diagnostics.Process.Start("SpeenieBot.exe");
+                    }
+                }
+                //END testing bot start
+
+
                 thread1 = new Thread(() => bw_DoWork(Bot).Wait());
                 thread1.Start();
 

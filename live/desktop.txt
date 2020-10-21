@@ -1,0 +1,42 @@
+By using the Speenie Bot, you do so at your own risk! In no way are we responsible or will be held liable for any positive or adverse affects or consequences from the intended use of this platform. See instructions below.
+
+TELEGRAM DESKTOP APP INSTRUCTIONS:
+
+Desktop App:
+If you are using Telegram Desktop, find THE desired location on Google Maps and send a link to it like this:  
+https://www.google.com/maps/@54.9831153,73.3224661,21z  
+(The link should have the same format as in the former example). 
+
+Note: If using Windows 10, it is highly recommended to use Yandex Maps from the app store (i.e. Google) versus the default 'Bing' or 'Map' app.
+
+You can also use https://www.latlong.net/convert-address-to-lat-long.html to convert your address to latitude and longitude, then replace the values in the Google Maps link above (54.9831153,73.3224661) , before sending the link to SpeenieBot.
+
+Click the Map. On the 'Location' aka Map page, click the menu, then 'Share my Live Location'. Choose how long to share your location with SpeenieBot and then click 'Share'. Speenie will confirm the location update. Otherwise, manually, pin your location on the map.
+
+If desired, Enter /setradius to decrease the proximity between your location and the Attractor or Void. You can enter a value between 1000 and 100000. The default is 5000 m.
+
+State your Intent, if you'd like by entering /intent. All text after /intent will be saved as your Intent.
+
+Enter /getattractor, /getvoid, /getrepeller or /getpair command to find your next Quantum adventure location.
+Enter /getpseudo to find a random location in your radius.
+
+Click the Map and get going!
+
+
+DEFINITIONS:
+
+Attractors power: The power of the attractor is a relative coefficient to verify that the attractor is generated correctly. It is based on the ratio between the density of points near the attractor and in the entire search zone as a whole. In theory, if it is less than two, then it is difficult to call it an anomaly. 
+
+Void/Repeller: The opposite of the attractor point; A place with the minimum density of the point will be found. 
+In other words, a Void is considered as a location with the least likeliness to have the  stated 'Intent'. 
+Can this be a place where your presence enables the 'Intent'? Do opposites attract?
+
+Select area radius: If the map center is your current location, area radius will be the maximum proximity to the target point. To change it, seng command /setradius. You will receive an answer: "Send new radius in meters (for example 3000)", send new radius then.
+Or you ca just send it like that "/setradius 3000" (without quotes)
+
+
+REFERENCES:
+
+/fatumtheory
+
+https://qrng.anu.edu.au/

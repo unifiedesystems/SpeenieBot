@@ -1,0 +1,19 @@
+By using the Speenie Bot, you do so at your own risk! In no way are we responsible or will be held liable for any positive or adverse affects or consequences from the intended use of this platform. Use the help file below for quick reference.
+
+COMMANDS: /getcommands - shows the list of commands.
+
+
+INSTRUCTIONS:
+
+Mobile App: /showmo
+
+Desktop App: /showdesk
+
+
+REFERENCES:
+
+/fatumtheory - details the theory of the Fatum Project, the basis of the Randonautica app.
+
+https://qrng.anu.edu.au/
+
+

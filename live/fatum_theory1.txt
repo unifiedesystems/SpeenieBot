@@ -1,0 +1,59 @@
+Some theory
+
+The Fatum Project was born as an attempt to research unknown spaces outside predetermined probability-tunnels of the holistic
+world and has become a fully functional reality-tunnel creating machine that digs rabbit holes to wonderland.
+
+It consists of technical, causal and memetic parts, that we'll describe in the article below.
+
+1. Probability Blind-Spots
+
+All things in the world are causally connected with each other and everything that happens, including our thoughts, is usually
+determined by the sum of all environmental factors. This makes the world close to deterministic. The patterns arising in the
+network of these relations, reduce even random actions to a limited set of possible outcomes. That’s how attractors appear, like
+this:
+https://en.wikipedia.org/wiki/Sierpinski_triangle#Chaos_game
+
+This means that no matter what choices you make, and no matter how many variations on how your day may pass, there are always
+some places where you simply cannot be, because none of the chains of your decisions leads there.
+
+Interesting that such places may be somewhere nearby. On your street there may be a lane in which you will never think to look
+and you do not even know about its existence. What could be hiding in such blind spots? And what could be hiding in places where
+no one looks at all? This is the first question of our experiment. There may be magical creatures or aliens or a pile of
+garbage, no one knows for sure.
+
+To find such places, it was decided to create points with random coordinates and go there, regardless of whether they look
+interesting or convenient to visit. So the chance to get to a blind spot increases markedly.
+Remarkable, that after several trips, researchers found dozens of new places near their house, they had never seen before. 
+It is possible to enhance the effect by building chains of random points, thereby creating entire unusual routes for yourself.
+
+2. Butterfly effect
+
+Next was the question of what were long-term consequences of a researcher staying in a place where he should never have been.
+How much can determinism be broken? Will the clockwork of the universe fail from changing its gear position? Will the objects
+found in these places or the images seen generate cascades of events drastically changing everything around?
+
+This is quite possible if we consider that all people exists within their own tunnel of reality, shaped by their qualities,
+habits and perceptions. Even just a very different person from us can live in a completely different world, because it goes on 
+completely different routes and receives other information. So, getting into random points, you can find yourself in someone
+else’s tunnel of reality and get new opportunities from there.
+
+Then new information and causality can pull you out of the filter-bubble and change your life.
+
+3. Quantum Randomness
+
+But we decided to set ourselves a more ambitious goal and break holistic determinism at its very core, going beyond even the
+most fundamental attractors.
+As it is known, determinism completely disappears only in the transition to quantum measurements, for which the uncertainty
+principle operates.
+
+If you tie such measurements to actions in the macro world, you can significantly break out of the holistic field of causality
+relationships. (We called it the Stasis Field) So you can even find yourself in places where the usual randomizer would never
+lead you because of its dependence on the launch time and mathematical operations.
+
+We managed to find two available sources of quantum randomness: One of them (QRNG) is an open server https://qrng.anu.edu.au/
+which receives random numbers by measuring the magnetic field fluctuations of virtual particles in a vacuum. The second (REG) is
+a REG-1 Psyleron hardware module purchased from the Internet using tunnel effects in a field-effect transistor. Fatum software
+supports both sources.
+
+For additional information, see the Fatum Project Theory post on Reddit.
+https://www.reddit.com/r/AWLIAS/comments/b6albf/fatum_project_theory/

@@ -80,9 +80,8 @@ orleans.codegen.cs
 
 #SpeenieBot
 /prod-copies/
-.vs/Bots/v16/.suo
-/SpeenieBot.Local.Build/System.*
-/SpeenieBot.Local.Build/Microsoft.*
-/ex.cs
+#.vs/Bots/v16/.suo
+.vs/
+/SpeenieBot.Local.Build/
 /SpeenieBot/Program.cs.bak
 /dev
